@@ -1,0 +1,14 @@
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\bin\Debug\netcoreapp3.1\BasicClasses_Exercise.exe
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\bin\Debug\netcoreapp3.1\BasicClasses_Exercise.deps.json
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\bin\Debug\netcoreapp3.1\BasicClasses_Exercise.runtimeconfig.json
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\bin\Debug\netcoreapp3.1\BasicClasses_Exercise.runtimeconfig.dev.json
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\bin\Debug\netcoreapp3.1\BasicClasses_Exercise.dll
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\bin\Debug\netcoreapp3.1\BasicClasses_Exercise.pdb
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\obj\Debug\netcoreapp3.1\BasicClasses_Exercise.csproj.AssemblyReference.cache
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\obj\Debug\netcoreapp3.1\BasicClasses_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\obj\Debug\netcoreapp3.1\BasicClasses_Exercise.AssemblyInfoInputs.cache
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\obj\Debug\netcoreapp3.1\BasicClasses_Exercise.AssemblyInfo.cs
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\obj\Debug\netcoreapp3.1\BasicClasses_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\obj\Debug\netcoreapp3.1\BasicClasses_Exercise.dll
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\obj\Debug\netcoreapp3.1\BasicClasses_Exercise.pdb
+C:\Users\maxsc\Desktop\repos\BasicClasses_Exercise\BasicClasses_Exercise\obj\Debug\netcoreapp3.1\BasicClasses_Exercise.genruntimeconfig.cache
